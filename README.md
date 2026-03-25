@@ -1,7 +1,3 @@
-# computer-vision-opencv-projects
-Practical computer vision projects using OpenCV, including image processing and visual data analysis.
-# Computer Vision Projects — OpenCV
-
 This repository presents a series of practical projects developed using OpenCV, focusing on fundamental concepts in computer vision and image processing.
 
 ## Objectives
