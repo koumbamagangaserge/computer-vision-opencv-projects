@@ -1,4 +1,4 @@
-# Real-Time Object Detection and Classification for Decision Support Using Computer Vision**
+# Real-Time Object Detection and Classification for Decision Support Using Computer Vision
 
 ## **Abstract**
 This project explores the design and evaluation of a computer vision system for object detection and classification, with the objective of supporting decision-making processes in real-world operational environments. Using a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset, the study demonstrates how machine learning models can extract meaningful insights from visual data. The results highlight the potential of computer vision systems to enhance efficiency, accuracy, and automation in large-scale systems.
